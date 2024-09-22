@@ -41,7 +41,7 @@ Special thanks to these developer(s) for maintaining and improving YouTubeReborn
 <tr>
 <td align="center">
 <a href='https://github.com/arichornlover'>
-<img src='https://user-images.githubusercontent.com/78001398/271853100-d5c74be7-4890-411c-907a-dc5f7b5fa46e.png' width='110px;'>
+<img src='https://github.com/user-attachments/assets/f1352b14-b5eb-44e4-bef0-1cc69062d11e' width='110px;'>
 </a>
 <br>
 <a href='https://github.com/arichornlover'>arichornlover</a>
